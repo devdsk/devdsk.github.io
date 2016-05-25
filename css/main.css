@@ -20,7 +20,7 @@ a {
 #wrapper {
   /.background-image:url(../img/turtle.gif);
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size: auto;
   max-width: 940px;
   margin: 0 auto;
   padding: 0 5%;
