@@ -2,7 +2,8 @@
 GENERAL
 **************/
 html, body {
-  background: url(../img/zona.jpg) no-repeat center center fixed;
+  background: url(../img/giphy.gif) no-repeat center center fixed;
+  background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -188,8 +189,8 @@ body  {
   background-color: #336633;
   //background-image:url(http://i1159.photobucket.com/albums/p629/dscottkeller/74870318-89ed-40d5-a541-341e37e0e066_zpsomp7zpoh.png);
   color: #000000;
-  background-repeat:repeat;
-	background-size:auto;
+/.  background-repeat:repeat;
+	background-size: cover;
  }
 a{
 
